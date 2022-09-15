@@ -1,6 +1,6 @@
 # Pokerspel
 
-Detta var en A-uppgift i kursen "Introduktion till Python" på Högskolan i Gävle. Spelet är skrivet objektorienterat och följer styleguideen PEP8. 
+Detta var en A-uppgift i kursen "Introduktion till Python" på Högskolan i Gävle. Programmeringen är skriven i objektorienterad manér och följer styleguideen PEP8. 
 
 Spelet är en variant av 7-kortspoker. Målet med spelet är att få den bästa handen (5 kort).
 
