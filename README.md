@@ -8,5 +8,6 @@ Spelinstruktioner:
 
 1. Antal spelare väljs
 2. Var spelare tilldelas sju kort
-3. Programmet räknar ut vilken spelare som fått den bästa handen
-4. Spelarna rankas på en topplista utefter givet resultat.
+3. Bästa handen för var spelare bestäms
+4. Spelares händer jämförs och rankas.
+5. Topplista visas utefter givet resultat.
